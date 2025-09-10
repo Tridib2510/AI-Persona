@@ -61,7 +61,7 @@ def is_automata_compiler_related(text):
 if __name__ == "__main__":
     sentence = input("Enter your question for Partha Sir: ")
     model_train(sentence)
-    print(model_train)
+    # print(model_train)
     isRelated = is_automata_compiler_related(sentence)
     response=""
     api_key = ""

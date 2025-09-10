@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: scikit-learn
-Version: 1.7.1
+Version: 1.7.2
 Summary: A set of python modules for machine learning and data mining
 Maintainer-Email: scikit-learn developers <scikit-learn@python.org>
 License-Expression: BSD-3-Clause
